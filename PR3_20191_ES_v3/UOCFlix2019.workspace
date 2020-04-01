@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="UOCFlix2019" Database="" Version="10.0.0">
+  <Project Name="UOCFlixMain" Path="UOCFlixMain/UOCFlixMain.project" Active="Yes"/>
+  <Project Name="UOCFlix" Path="UOCFlix/UOCFlix.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="UOCFlixMain" ConfigName="Debug"/>
+      <Project Name="UOCFlix" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="no">
+      <Environment/>
+      <Project Name="UOCFlixMain" ConfigName="Release"/>
+      <Project Name="UOCFlix" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

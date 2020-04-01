@@ -1,0 +1,1 @@
+./Debug/src_user.c.o ./Debug/src_film.c.o ./Debug/src_view.c.o ./Debug/src_favorite.c.o ./Debug/src_popularity.c.o ./Debug/src_series.c.o

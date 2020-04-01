@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="/home/uoc/Documents/codelite/workspaces/PR3_20191_ES_v3/UOCFlix2019.workspace">
+  <int Value="0" Name="m_selectedTab"/>
+  <wxString Value="/home/uoc/Documents/codelite/workspaces/PR3_20191_ES_v3/UOCFlix2019.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="/home/uoc/Documents/codelite/workspaces/PR3_20191_ES_v3/UOCFlix/src/popularity.c" Name="FileName"/>
+      <int Value="444" Name="FirstVisibleLine"/>
+      <int Value="460" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>
